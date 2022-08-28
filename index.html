@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/home-page.css">
+  <script src="./script.js"></script>
+  <title>Houses | Game of Thrones</title>
+</head>
+<body>
+      <nav class=menu>
+      <ul>
+        <li class="menu__item">
+          <a href="./pages/Stark/Stark.html">
+            <h1 class="font">House Stark</h1>
+          </a>
+          
+        </li>
+  
+        <li class="menu__item">
+          <a href="./pages/Targaryen/Targaryen.html">
+            <h1 class="font">House Targaryen</h1>
+          </a>
+        </li>
+  
+        <li class="menu__item">
+          <a href="./pages/Greyjoy/Greyjoy.html">
+            <h1 class="font">House Greyjoy</h1>
+          </a>
+        </li>
+        
+        <li class="menu__icon">
+          <img  class="menu__icon__image" src="./images/iron-throne.png" alt="Iron Throne">
+        </li>
+  
+        <li class="menu__item">
+          <a href="./pages/Arryn/Arryn.html">
+            <h1 class="font">House Arryn</h1>
+          </a>
+        </li>
+  
+        <li class="menu__item">
+          <a href="./pages/Lannister/Lannister.html">
+            <h1 class="font">House Lannister</h1>
+          </a>
+        </li>
+  
+        <li class="menu__item">
+          <a href="./pages/Tyrell/Tyrell.html">
+            <h1 class="font">House Tyrell</h1>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+    
+  
+  <div class="container">
+    <div class="cards-carousel" style="transform: translatez(-60vw) rotatey(0deg) skewX(-0.5deg);">
+      <a href="./pages/Stark/Stark.html" class="card" id="house-Stark">
+        <img class="card__background" src="./images/Winterfell-Stark.png">
+        <img class="card__image" src="./images/STARK.jpg" alt="Stark">
+        <h2 class="card__title">Stark</h2>
+      </a>
+
+      <a href="./pages/Targaryen/Targaryen.html" class="card" id="house-Targaryen">
+        <img class="card__background" src="./images/Dragonstone.jpg">
+        <img class="card__image" src="./images/TARGARYEN.jpg" alt="Targaryen">
+        <h2 class="card__title__targaryen card__title">Targaryen</h2>
+      </a>
+
+      <a href="./pages/Lannister/Lannister.html" class="card" id="house-Lannister">
+        <img class="card__background" src="./images/fortaleza-vermelha.jpg">
+        <img class="card__image" src="./images/LANNISTER.jpg" alt="Lannister">
+        <h2 class="card__title__lannister card__title">Lannister</h2>
+      </a>
+
+      <a href="./pages/Greyjoy/Greyjoy.html" class="card" id="house-Greyjoy">
+        <img class="card__background" src="./images/pyke-castle.png">
+        <img class="card__image" src="./images/GREYJOY.jpg" alt="Greyjoy">
+        <h2 class="card__title">Greyjoy</h2>
+      </a>
+
+      <a href="./pages/Tyrell/Tyrell.html" class="card" id="house-Tyrell">
+        <img class="card__background" src="./images/highgarden.jpg">
+        <img class="card__image" src="./images/TYRELL.jpg" alt="Tyrell">
+        <h2 class="card__title">Tyrell</h2>
+      </a>
+
+      <a href="./pages/Arryn/Arryn.html" class="card" id="house-Arryn">
+        <img class="card__background" src="./images/Eyrie.jpg">
+        <img class="card__image" src="./images/ARRYN.jpg" alt="Arryn">
+        <h2 class="card__title">Arryn</h2>
+      </a>
+    </div>
+  </div>
+
+  <div class="controller">
+    <div id="1" onclick="selectCarouselItem(this)" class="controller__button controller__button--active">
+      01
+    </div>
+    <div id="2" onclick="selectCarouselItem(this)" class="controller__button">
+      02
+    </div>
+    <div id="3" onclick="selectCarouselItem(this)" class="controller__button">
+      03
+    </div>  
+    <div id="4" onclick="selectCarouselItem(this)" class="controller__button">
+      04
+    </div>
+    <div id="5" onclick="selectCarouselItem(this)" class="controller__button">
+      05
+    </div>
+    <div id="6" onclick="selectCarouselItem(this)" class="controller__button">
+      06
+    </div>
+        
+  </div>  
+</body>
+</html>
