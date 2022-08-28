@@ -1,0 +1,242 @@
+/*** HOUSE ARRYN ***/
+
+.wrapper .main-content-arryn {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-jon {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/jon-back.jpg');
+    background-size: 100%;
+}
+
+.wrapper .main-content-lysa {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/lysa-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-robin {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/robin-back.jpg');
+    background-size: cover;
+}
+
+/*** HOUSE GREYJOY ***/
+
+.wrapper .main-content-greyjoy {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-asha {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/asha-back.jpg');
+    background-size: 100%;
+}
+
+.wrapper .main-content-balon {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/balon-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-euron {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/euron-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-theon {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/theon-back.jpg');
+    background-size: cover;
+}
+
+/*** HOUSE LANNISTER ***/
+
+.wrapper .main-content-lannister {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-cersei {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/cersei-back.jpg');
+    background-size: 100%;
+}
+
+.wrapper .main-content-tyrion {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/tyrion-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-tywin {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/tywin-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-jaime {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/jaime-back.jpg');
+    background-size: cover;
+}
+
+/*** HOUSE STARK ***/
+
+.wrapper .main-content-stark {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-eddard {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/eddard-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-sansa {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/sansa-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-bran {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/bran-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-arya {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/arya-back.jpg');
+    background-size: cover;
+}
+
+/*** HOUSE TARGARYEN ***/
+
+.wrapper .main-content-targaryen {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-daenerys {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/daenerys-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-aerys {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/aerys-back.png');
+    background-size: cover;
+}
+
+.wrapper .main-content-viserys {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/viserys-back.jpg');
+    background-size: cover;
+}
+
+/*** HOUSE TYRELL ***/
+
+.wrapper .main-content-tyrell {
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    z-index: 1;
+}
+
+.wrapper .main-content-margaery {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/margaery-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-loras {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/loras-back.jpg');
+    background-size: cover;
+}
+
+.wrapper .main-content-olenna {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    padding-left: 130px;
+    background-image: url('./../images/olenna-back.jpg');
+    background-size: cover;
+}
